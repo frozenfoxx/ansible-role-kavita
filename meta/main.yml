@@ -1,0 +1,24 @@
+---
+galaxy_info:
+  author: frozenfoxx
+  description: Install Kavita
+  company: Cult of Foxx
+  role_name: kavita
+  namespace: frozenfoxx
+  min_ansible_version: 2.4
+  min_ansible_container_version: 2.4
+  license: MIT
+  galaxy_tags:
+    - kavita
+    - comics
+    - books
+  platforms:
+    - name: Debian
+      versions:
+        - bullseye
+        - buster
+    - name: Ubuntu
+      versions:
+        - bionic
+        - focal
+        - jammy
